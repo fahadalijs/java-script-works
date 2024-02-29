@@ -99,12 +99,71 @@ document.write("<h1>Hello world</h1>")
 
 
 
-const a = "this can not be changed";
-a = "i wnat to change this.This can not be chnaged";
-console.log(a);
+// const a = "this can not be changed";
+// a = "i wnat to change this.This can not be chnaged";
+// console.log(a);
 
 
 
+
+
+
+// if else conditions
+
+// let age = 34;
+// if(age>18)
+// {
+//     console.log("you can drink cold drink");
+// }
+
+// else{
+//     console.log("you can drink water");
+// }
+
+
+
+// let age = 5;
+// if(age>18)
+// {
+    // console.log("you can drink cold drink");
+// }
+// else if(age==2){
+    // console.log("age is 2");
+// }
+// else if(age==5){
+    // console.log("age is 5");
+// }
+// 
+// else{
+    // console.log("you can drink water");
+// }
+// 
+
+
+// switch case statements
+
+const cups = 4;
+switch (cups) {
+    case 4:
+        console.log("The value of cup is 4");
+        break;
+    case 41:
+        console.log("The value of cup is 41");
+        break;
+    case 4:
+        console.log("The value of cup is 42");
+        break;
+    case 43:
+        console.log("The value of cup is 43");
+        break;
+    case 4:
+        console.log("The value of cup is 44");
+        break;
+
+    default:
+        console.log("The value of cup is none of this 4 ,41 ,42 ,43 ,44");
+         break;
+}
 
 
 
