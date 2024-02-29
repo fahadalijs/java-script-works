@@ -1,6 +1,7 @@
 // alert("Fahad")
 // var userName = "Fahad";
 // var lastName = "Ali";
+
 // var age = 18;
 // console.log(userName   + " " +  lastName + " " + age)
 
@@ -62,17 +63,15 @@ document.write("<h1>Hello world</h1>")
 
 
 
-var Physics = +prompt ("Physics");
-var Chemistry = +prompt ("Chemistery");
-var English = +prompt ("English");
-var Urdu = +prompt ("Urdu");
+// var Physics = +prompt ("Physics");
+// var Chemistry = +prompt ("Chemistery");
+// var English = +prompt ("English");
+// var Urdu = +prompt ("Urdu");
 
-var total =500;
+// var total =500;
 
-var obtained = Physics + Chemistery + English + Urdu;
-console.log("Physics" + Physics + "\n" + "Chemistry"  + Chemistry + "\n" + "English" + English + "\n" + "Urdu"  + Urdu)
-
-
+// var obtained = Physics + Chemistery + English + Urdu;
+// console.log("Physics" + Physics + "\n" + "Chemistry"  + Chemistry + "\n" + "English" + English + "\n" + "Urdu"  + Urdu)
 
 
 
@@ -83,7 +82,17 @@ console.log("Physics" + Physics + "\n" + "Chemistry"  + Chemistry + "\n" + "Engl
 
 
 
+// let
+var string1 = "This is a string";
+var string1 = "This is a string2"
+console.log(string1)
 
+let a = "u";
+
+{
+    let a = "u6"
+    console.log(a)
+}
 
 
 
