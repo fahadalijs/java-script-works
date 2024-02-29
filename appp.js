@@ -99,9 +99,9 @@ document.write("<h1>Hello world</h1>")
 
 
 
-const a = "this can not be changed"
-a = "i wnat to change this.This can not be chnaged"
-console.log(a)
+const a = "this can not be changed";
+a = "i wnat to change this.This can not be chnaged";
+console.log(a);
 
 
 
