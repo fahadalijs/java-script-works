@@ -83,16 +83,26 @@ document.write("<h1>Hello world</h1>")
 
 
 // let
-var string1 = "This is a string";
-var string1 = "This is a string2"
-console.log(string1)
+// var string1 = "This is a string";
+// var string1 = "This is a string2"
+// console.log(string1)
 
-let a = "u";
+// let a = "u";
 
-{
-    let a = "u6"
-    console.log(a)
-}
+// {
+//     let a = "u6"
+//     console.log(a)
+// }
+
+
+
+
+
+
+const a = "this can not be changed"
+a = "i wnat to change this.This can not be chnaged"
+console.log(a)
+
 
 
 
